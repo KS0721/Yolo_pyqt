@@ -13,6 +13,8 @@ conda create -n juso_yolo python=3.9
 
 git clone https://github.com/ultralytics/ultralytics.git
 ```
+🚀 [Ultralytics YOLO 공식 GitHub 링크 바로가기](https://github.com/ultralytics/ultralytics)
+
 ### 3. requirements.txt를 인스톨 합니다.
 ```bash
 pip install -r requirements.txt
